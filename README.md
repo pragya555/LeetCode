@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pragya555/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragya555/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pragya555/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pragya555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/pragya555/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3871-count-commas-in-range-ii](https://github.com/pragya555/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pragya555/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -67,5 +70,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragya555/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
