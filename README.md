@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragya555/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pragya555/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragya555/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pragya555/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/pragya555/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -66,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragya555/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
 |  |
