@@ -32,6 +32,7 @@
 | [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pragya555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/pragya555/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/pragya555/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/pragya555/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Combinatorics
 |  |
@@ -52,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/pragya555/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pragya555/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/pragya555/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/pragya555/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragya555/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/pragya555/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
