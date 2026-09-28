@@ -11,6 +11,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pragya555/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pragya555/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/pragya555/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pragya555/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/pragya555/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
