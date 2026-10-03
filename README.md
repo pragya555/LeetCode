@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pragya555/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pragya555/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pragya555/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pragya555/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pragya555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -91,6 +93,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pragya555/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pragya555/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pragya555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
