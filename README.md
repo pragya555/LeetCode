@@ -13,6 +13,7 @@
 | [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/pragya555/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragya555/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pragya555/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragya555/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pragya555/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
@@ -99,6 +101,7 @@
 | [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pragya555/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/pragya555/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragya555/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -130,6 +133,7 @@
 | [0022-generate-parentheses](https://github.com/pragya555/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pragya555/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pragya555/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragya555/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pragya555/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
