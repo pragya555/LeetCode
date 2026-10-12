@@ -14,6 +14,7 @@
 | [0067-add-binary](https://github.com/pragya555/LeetCode/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/pragya555/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragya555/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/pragya555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -79,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/pragya555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pragya555/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pragya555/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pragya555/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/pragya555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pragya555/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
 |  |
@@ -111,6 +114,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/pragya555/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/pragya555/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragya555/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/pragya555/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pragya555/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragya555/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -132,6 +136,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pragya555/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/pragya555/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -154,4 +159,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pragya555/LeetCode/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/pragya555/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
